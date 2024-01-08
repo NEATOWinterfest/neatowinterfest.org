@@ -1,0 +1,121 @@
+title: NEATO Winterfest
+preposition: ''
+description: >-
+  Wintertime conference for Volunteers and Staff from North Eastern Trolley Museums.
+baseurl: ""
+url: "https://www.neatowinterfest.org"
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+conference:
+  #main:
+  #  logo:
+  #    img: "logo3-364x364.png"
+  lang: en
+  show_errors: True
+
+  link_preview:
+    disable: false
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map: true
+    navbar_title: 'Location'
+    hide: false
+
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: true
+
+  map:
+    # https://www.google.com/maps/place/Seashore+Trolley+Museum/@43.4091118,-70.4919693,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb2aee9ad8bbb4d:0x92c1bd47775e8139!8m2!3d43.4091118!4d-70.4893944!16zL20vMDYyN2Z5?entry=ttu
+    default_zoom: 17
+    home_coord: 43.4091118, -70.4919693
+    #geo:43.41028,-70.49213?z=17
+    map_provider: "OpenStreetMap.Mapnik"
+
+  talks:
+    main_categories:
+      - name: "Lightning Talks"
+        color: warning
+      - name: Workshops
+        color: primary
+      - name: "Sessions"
+        color: success
+      - name: "Roundtable Discussions and Fireside Chats"
+        color: alert
+      - name: "Meals"
+        color: warning
+      - name: "Information"
+        color: info
+      - name: "Hands-On"
+        color: danger
+      - name: "Entertainment"
+        color: danger
+
+  navigation:
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: Tickets
+        disabled: false
+        relative_url: /tickets/
+        absolute_url: ""
+      - name: Location
+        relative_url: /location/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
+
+
+
