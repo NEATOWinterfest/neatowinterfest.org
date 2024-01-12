@@ -79,7 +79,7 @@ conference:
   map:
     # https://www.google.com/maps/place/Seashore+Trolley+Museum/@43.4091118,-70.4919693,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb2aee9ad8bbb4d:0x92c1bd47775e8139!8m2!3d43.4091118!4d-70.4893944!16zL20vMDYyN2Z5?entry=ttu
     default_zoom: 17
-    home_coord: 43.4091118, -70.4919693
+    home_coord: "43.41028,-70.49213"
     #geo:43.41028,-70.49213?z=17
     map_provider: "OpenStreetMap.Mapnik"
 
@@ -109,7 +109,9 @@ conference:
       - name: Tickets
         disabled: false
         relative_url: /tickets/
-        absolute_url: ""
+        #absolute_url: ""
+      - name: Lodging
+        relative_url: /lodging/
       - name: Location
         relative_url: /location/
       - name: Talks

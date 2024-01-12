@@ -1,0 +1,16 @@
+<h3>{{include.name}}</h3>
+<div class="hotel-container">
+  <div class="hotel-image" style="width:40%; float:left;">
+    <img style="border:0.5px #999999 solid;width:400px;height:267px;" src="/assets/images/lodging/{{include.image}}" />
+  </div>
+  <div class="hotel-bullets" style="width:60%; float:right;">
+    <ul>
+      <li><strong>Website:</strong> <a href="{{include.website_url}}">{{include.website_name}}</a></li>
+      <li><strong>Address:</strong> {{include.address}}</li>
+      <li><strong>Phone:</strong> {{include.phone}}</li>
+      {% if include.description == "" %}{% else %}<li>{{include.description}}</li>{% endif %}
+    </ul>
+  </div>
+</div>
+<br style="clear:both;" />
+<hr noshade />
