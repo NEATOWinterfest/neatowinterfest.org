@@ -22,6 +22,9 @@ exclude:
   - purgecss.config.js
   - _config.example.yml
 
+include:
+  - '_past'
+
 # Collections and their defaults
 collections:
   talks:
@@ -53,9 +56,16 @@ defaults:
 
 # Theme default values
 conference:
-  #main:
-  #  logo:
-  #    img: "logo3-364x364.png"
+
+  info_bars:
+    #- title: Event has ended
+    #  color: primary
+    #  main_only: false
+    #  text: |
+    #    Winterfest 2024 has ended.
+    #    ---
+    #    We look forward to seeing you at Winterfest 2025!
+
   lang: en
   show_errors: True
 
@@ -101,10 +111,15 @@ conference:
         color: danger
       - name: "Entertainment"
         color: danger
+      - name: "Community Activities"
+        color: danger
+      - name: "Tours"
+        color: danger
+
 
   navigation:
     links:
-      - name: Program
+      - name: Schedule
         relative_url: /program/
       - name: Tickets
         disabled: false
@@ -118,6 +133,28 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: FAQ
+        relative_url: /faq/
+      - name: 5K
+        relative_url: /talks/Winterfest-5K-Registration/
+
+      - name: Past Events
+        menu:
+          #- name: 2024 (current)
+          #  disabled: true
+          #  relative_url: /
+          - name: 2023
+            relative_url: /2023/
+          - name: 2020
+            relative_url: /2020/
+          - name: 2019
+            relative_url: /2019/
+          - name: 2018
+            relative_url: /2018/
+          - name: 2016
+            relative_url: /2016/
+          - name: 2015
+            relative_url: /2015/
 
 
 

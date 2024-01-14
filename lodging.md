@@ -47,7 +47,7 @@ Winterfest is **Friday, March 15, 2024** - **Sunday, March 17, 2024**.
   website_url='https://www.hilton.com/en/hotels/pwmkehx-hampton-kennebunk-kennebunkport/'
   address='6 Independence Dr, Kennebunk, ME 04043'
   phone='207-985-9200'
-  description='⚠️ <em>We do not have the confirmation code to give the hotel</em> ⚠️'
+  description='<strong>Group Code:</strong> 902'
 %}
 
 

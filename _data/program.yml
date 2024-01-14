@@ -3,34 +3,49 @@ days:
   abbr: Fr
   date: 2024-03-15
   rooms:
+
+  - name: "The National Streetcar Museum at Lowell"
+    talks:
+      - name: "The National Streetcar Museum at Lowell"
+        time_start: '11:00'
+        time_end: '16:00'
+
+
+
   - name: "Visitors Center Platform"
     talks:
       - name: "Friday Guest Trolley Operations"
         time_start: '18:00'
         time_end: '20:00'
+        
   - name: "Exhibit Room in the Visitors Center"
     talks:
       - name: Friday Supper
         time_start: '17:00'
         time_end: '20:00'
+        
       - name: "Wing Eating Competition"
         time_start: '18:00'
         time_end: '19:00'
+        
       - name: "Friday Night LIVE!"
         time_start: '19:00'
         time_end: '21:00'
+        
 
   - name: "Visitors Center Lobby"
     talks:
       - name: "Friday Check-in and Badge Pickup"
         time_start: '17:00'
         time_end: '20:00'
+        
 
   - name: "Conference Room in the Visitors Center"
     talks:
       - name: Bingo
         time_start: '19:00'
         time_end: '21:00'
+        
 
 - name: Saturday
   abbr: Sa
@@ -38,12 +53,14 @@ days:
   rooms:
   - name: "Visitors Center Lobby"
     talks:
-      - name: Check-in and Badge Pickup
+      - name: "Check-in and Badge Pickup"
         time_start: '7:00'
         time_end: '11:00'
-      - name: Winterfest 5K Registration
+        
+      - name: "Winterfest 5K Registration"
         time_start: '7:00'
         time_end: '11:00'
+        
 
   - name: "Exhibit Room in the Visitors Center"
     talks:
@@ -54,12 +71,61 @@ days:
       - name: Scenes from early Seashore days
         time_start: '11:00'
         time_end: '11:45'
+        
+      - name: "All Trolleys welcome networking receptions"
+        time_start: '17:00'
+        time_end: '17:45'
+        
+      - name: Saturday Lunch
+        time_start: '11:00'
+        time_end: '13:00'
+
+      - name: Saturday Supper
+        time_start: '18:00'
+        time_end: '19:00'
+
+      - name: Bingo
+        time_start: '19:00'
+        time_end: '21:00'
+
+      - name: Gaming Lounge
+        time_start: '19:00'
+        time_end: '21:00'
 
   - name: "Conference Room in the Visitors Center"
     talks:
       - name: "Create an endowment"
         time_start: '11:00'
         time_end: '11:45'
+        
+      - name: "Paint and Sip"
+        time_start: '16:00'
+        time_end: '16:45'
+        
+      - name: "Women of the Trolleys fireside chat and meetup"
+        time_start: '17:00'
+        time_end: '17:45'
+
+  - name: "Tours"
+    talks:
+      - name: "Model Railroad Building"
+        time_start: '11:00'
+        time_end: '11:45'
+      - name: "Riverside"
+        time_start: '13:00'
+        time_end: '16:45'
+      - name: "Highwood"
+        time_start: '13:00'
+        time_end: '16:45'
+      - name: "The Forbidden Trolley Tour"
+        time_start: '13:00'
+        time_end: '14:30'
+      - name: "Parts Warehouse"
+        time_start: '15:00'
+        time_end: '15:45'
+
+
+
 
 
 - name: Sunday
@@ -71,5 +137,18 @@ days:
       - name: Winterfest 5K Registration
         time_start: '7:00'
         time_end: '11:00'
+
+
+  - name: "Conference Room in the Visitors Center"
+    talks:
+
+
+  - name: "Exhibit Room in the Visitors Center"
+    talks:
+
+      - name: Sunday Lunch
+        time_start: '11:00'
+        time_end: '13:00'
+
 
 

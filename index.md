@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/images/logo3-364x364.png" alt="NEATO Logo" />
+<img style="max-width:600px;" src="/assets/images/logo4.svg" alt="NEATO Logo" />
 
 <div class="lead d-print-none">
 

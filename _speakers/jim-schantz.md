@@ -5,4 +5,6 @@ last_name: Schantz
 hide: false
 ---
 
-Jim Schantz is the President, and CEO, of the Seashore Trolley Museum.
+![Jim Schantz Headshot](/assets/images/speakers/jim-schantz.png)
+
+Jim Schantz is a Trolley operator, the President, and CEO, of the Seashore Trolley Museum.
