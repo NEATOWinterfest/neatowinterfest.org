@@ -37,7 +37,31 @@ $fa-font-path: '/assets/webfonts' !default;
   border-left-width: $alert-border-width;
 }
 
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+
+$new-theme-colors: (
+  "LightningTalks": $yellow,
+  "Workshops": $teal,
+  "Sessions": $purple,
+  "Roundtable": $green,
+  "Meals": $gray-600, //$indigo,
+  "Information": $pink,
+  "HandsOn": $cyan,
+  "Entertainment": $blue,
+  "CommunityActivities": $orange,
+  "Tours": $red,
+);
+
+$theme-colors: map-merge($theme-colors, $new-theme-colors);
+
 @each $color, $value in $theme-colors {
+  .alert-#{$color} {
+    background-color: theme-color-level($color, $alert-bg-level);
+    border-color: theme-color-level($color, $alert-border-level);
+    border-width: $alert-border-width;
+    border-stle: solid;
+  }
   .border-soft-#{$color} {
     border-color: theme-color-level($color, $alert-border-level);
     border-left-width: $alert-border-width;

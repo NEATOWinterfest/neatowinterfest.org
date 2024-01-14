@@ -33,7 +33,13 @@ A discussion, with a leader, about a specific topic.
 
 
 ## How can I network with other attendees?
-Discover, chat, and schedule meetings using the [Seashore Trolley Museum Discord](https://discord.gg/Vsqv5sVQQG). After joining the Discord server, you can join the Winterfest specific channels.
+Discover and chat with other attendees using the **[Seashore Trolley Museum Discord](https://discord.gg/Vsqv5sVQQG)**. After joining **[the Discord server](https://discord.gg/Vsqv5sVQQG)**, you can join the Winterfest specific channels.
+
+[![](/assets/images/discord/front.png)](https://discord.gg/Vsqv5sVQQG)
+
+[![](/assets/images/discord/back.png)](https://discord.gg/Vsqv5sVQQG)
+
+
 
 ## Meals	
 ### Where:	

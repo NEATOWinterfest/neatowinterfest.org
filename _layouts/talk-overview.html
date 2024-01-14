@@ -11,6 +11,7 @@
   {{ content }}
 
   {% for main_category in site.conference.talks.main_categories %}
+    <a name="{{ main_category.name | replace: ' ', '-'}}"></a>
     <h3 class="mt-4 mb-3">
       <span class="badge border-soft-{{ main_category.color }} bg-soft-{{ main_category.color }} d-block d-sm-inline text-wrap">
         {{ main_category.name }}

@@ -96,25 +96,25 @@ conference:
   talks:
     main_categories:
       - name: "Lightning Talks"
-        color: warning
+        color: "LightningTalks"
       - name: Workshops
-        color: primary
+        color: Workshops
       - name: "Sessions"
-        color: success
+        color: "Sessions"
       - name: "Roundtable Discussions and Fireside Chats"
-        color: alert
+        color: "Roundtable"
       - name: "Meals"
-        color: warning
+        color: "Meals"
       - name: "Information"
-        color: info
+        color: "Information"
       - name: "Hands-On"
-        color: danger
+        color: "HandsOn"
       - name: "Entertainment"
-        color: danger
+        color: "Entertainment"
       - name: "Community Activities"
-        color: danger
+        color: "CommunityActivities"
       - name: "Tours"
-        color: danger
+        color: "Tours"
 
 
   navigation:
@@ -137,6 +137,10 @@ conference:
         relative_url: /faq/
       - name: 5K
         relative_url: /talks/Winterfest-5K-Registration/
+      - name: 'Discord'
+        relative_url: /discord/
+        icon: "/assets/icons/discord.svg"
+        #classes: "fab fa-discord"
 
       - name: Past Events
         menu:

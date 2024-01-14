@@ -1,6 +1,7 @@
 {% include partials/header.html %}
 
   <div class="jumbotron">
+{% if page.show_generic_header %}
     <h1 class="display-3">
       {% if site.conference.main.logo.img %}
         <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
@@ -10,7 +11,7 @@
       {% else %}
         {{ site.title }}
       {% endif %}
-    </h1>
+    </h1><!-- display-3 -->
     {% if site.description != none %}
       <p class="lead">
         {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}
@@ -18,6 +19,7 @@
     {% endif %}
 
     <hr class="my-4">
+{% endif %}
 
     {{ content }}
 
@@ -82,6 +84,6 @@
       </p>
     {% endif %}
 
-  </div>
+  </div><!-- jumbotron -->
 
 {% include partials/footer.html %}

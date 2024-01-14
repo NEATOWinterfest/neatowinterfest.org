@@ -155,6 +155,9 @@
                       <p class="font-weight-light mb-2">
                         {%- include partials/list_speakers.html %}
                       </p>
+                      <p class="font-weight-light mb-2">
+                        {%- include partials/list_room.html %}
+                      </p>
                       <p class="mb-1">
                         {%- include partials/list_sub_categories.html %}
                       </p>
@@ -190,10 +193,10 @@
   {%- endif -%}
 
   {%- if site.conference.talks.main_categories %}
-    <h5 class="mt-4">{{ site.data.lang[site.conference.lang].program.legend | default: "Caption" }}</h5>
-      {%- for main_cat in site.conference.talks.main_categories %}
-        <div class="d-block d-sm-inline-block m-1 p-1 pl-2 pr-2 border-soft-{{ main_cat.color }} bg-soft-{{ main_cat.color }} font-weight-normal">
-          {{- main_cat.name -}}
+    <h5 class="mt-4">{{ site.data.lang[site.conference.lang].program.legend | default: "Categories" }}</h5>
+      {%- for main_category in site.conference.talks.main_categories %}
+        <div class="d-block d-sm-inline-block m-1 p-1 pl-2 pr-2 border-soft-{{ main_category.color }} bg-soft-{{ main_category.color }} font-weight-normal">
+          <a href="/talks/#{{ main_category.name | replace: ' ', '-'}}">{{- main_category.name -}}</a>
         </div>
       {%- endfor -%}
   {%- endif -%}
