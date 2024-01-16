@@ -3,6 +3,7 @@ name: The National Streetcar Museum at Lowell
 speakers:
   - Fred Hessler
   - John Grady
+  - Tom Tucker
 categories:
   - Tours
 summary: "Visit the National Streetcar Museum at Lowell, a satellite museum of Seashore Trolley Museum, and ride on New Orleans Car 966."
