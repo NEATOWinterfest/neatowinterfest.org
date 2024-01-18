@@ -5,6 +5,9 @@ description: >-
 baseurl: ""
 url: "https://www.neatowinterfest.org"
 
+plugins:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 sass:
