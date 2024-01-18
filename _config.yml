@@ -164,6 +164,8 @@ conference:
             relative_url: /2016/
           - name: 2015
             relative_url: /2015/
+          - name: 2014
+            relative_url: /2014/
 
 
 
