@@ -158,6 +158,8 @@ conference:
             relative_url: /2019/
           - name: 2018
             relative_url: /2018/
+          - name: 2017
+            relative_url: /2017/
           - name: 2016
             relative_url: /2016/
           - name: 2015
