@@ -4,7 +4,7 @@ speakers:
   - Brian Tenaglia
 categories:
   - Roundtable and Fireside Chat
-summary: <<
+summary: |-
   Sometimes "it depends" what you use or do. What kind of oil do you use? Pads or waste? How often do you service your cars? What specifically flags a car as "unserviceable" with regards to major components like wear on bearings. Why do you do what you do?"
 ---
 

@@ -60,6 +60,8 @@ defaults:
 # Theme default values
 conference:
 
+
+
   info_bars:
     #- title: Event has ended
     #  color: primary
@@ -81,7 +83,7 @@ conference:
   location:
     url: '/location'
     map: true
-    navbar_title: 'Location'
+    navbar_title: 'The Seashore Trolley Museum'
     hide: false
 
   program:

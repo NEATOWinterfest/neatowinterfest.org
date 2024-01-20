@@ -1,7 +1,8 @@
 ---
 name: The National Streetcar Museum at Lowell
+title: Directions to The National Streetcar Museum at Lowell
+#layout: location
 ---
-
 
 ## Driving Directions to Lowell:
 

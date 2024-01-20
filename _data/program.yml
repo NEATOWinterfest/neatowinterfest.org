@@ -140,29 +140,40 @@ days:
         time_start: "15:00"
         time_end: "15:45"
 
-      - name: "Shop Tour"
-        time_start: "15:00"
-        time_end: "15:45"
+      - name: "Resoration Shop Tour"
+        time_start: "16:00"
+        time_end: "16:45"
 
 
   - name: "Tours"
     talks:
-      - name: "Model Railroad Building"
+      - name: "Model Railroad Building Tour"
+        time_start: '9:00'
+        time_end: '9:45'
+      - name: "Model Railroad Building Tour"
+        time_start: '10:00'
+        time_end: '10:45'
+      - name: "Model Railroad Building Tour"
         time_start: '11:00'
         time_end: '11:45'
-      - name: "Riverside"
+
+      - name: "Riverside and Highwood"
+        time_start: '9:00'
+        time_end: '10:30'
+      - name: "Riverside and Highwood"
         time_start: '13:00'
-        time_end: '16:45'
-      - name: "Highwood"
-        time_start: '13:00'
-        time_end: '16:45'
+        time_end: '14:30'
+
+
       - name: "The Forbidden Trolley Tour"
         time_start: '13:00'
         time_end: '14:30'
+
       - name: "Parts Warehouse"
         time_start: '15:00'
         time_end: '15:45'
-      - name: "Restoration Shop"
+
+      - name: "Restoration Shop Tour"
         time_start: '16:00'
         time_end: '16:45'
 
@@ -202,7 +213,7 @@ days:
       - name: "The Forbidden Trolley Tour"
         time_start: '9:00'
         time_end: '10:30'
-      - name: "Restoration Shop"
+      - name: "Restoration Shop Tour"
         time_start: '11:00'
         time_end: '11:45'
 

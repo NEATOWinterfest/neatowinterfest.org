@@ -4,7 +4,7 @@ speakers:
   - Brian Tenaglia
 categories:
   - Roundtable and Fireside Chat
-summary: <<
+summary: |-
   A review of the Trolley maintenance forms used by the Seashore Trolley Museum restoration shop when working on Trolleys. Bring your restoration and maintenance forms and let's compare what works well and what could work better.
 ---
 

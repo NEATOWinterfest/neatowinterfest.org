@@ -10,10 +10,14 @@
 
   <!-- title shown in browser: -->
   <h1 class="display-5 mb-3 d-print-none">
+    {% if page.title %}{{ page.title }}{% else %}
     {{ site.data.lang[site.conference.lang].location.rooms | default: "Rooms" }}
+    {% endif %}
   </h1>
 
   {% include partials/navbar_rooms.html %}
+
+  <hr noshade />
 
   {{ content }}
 

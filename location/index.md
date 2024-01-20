@@ -1,4 +1,6 @@
 ---
+name: Seashore Trolley Museum
+title: Directions to The Seashore Trolley Museum
 layout: location
 ---
 

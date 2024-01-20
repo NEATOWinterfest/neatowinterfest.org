@@ -4,7 +4,7 @@ speakers:
   - Brian Tenaglia
 categories:
   - Roundtable and Fireside Chat
-summary: <<
+summary: |-
   Diving deep on Trolley technology with the general public. Some of the Trolley's hidden mechanisms are beautiful old-school engineering, with an elegance that appeals to everybody. Technology may be just the thing that plants the seed of the future Trolley enthusiast.
 ---
 

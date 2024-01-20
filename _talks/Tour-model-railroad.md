@@ -1,7 +1,7 @@
 ---
-name: Model Railroad Building
-#speakers:
-#  - Devon Hubner
+name: Model Railroad Building Tour
+speakers:
+  - Kyle Bourgault
 categories:
   - Tours
 summary: "See the new Model Railroad building."
