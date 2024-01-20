@@ -156,6 +156,16 @@ days:
       - name: "Model Railroad Building Tour"
         time_start: '11:00'
         time_end: '11:45'
+      - name: "Model Railroad Building Tour"
+        time_start: '13:00'
+        time_end: '13:45'
+      - name: "Model Railroad Building Tour"
+        time_start: '14:00'
+        time_end: '14:45'
+      - name: "Model Railroad Building Tour"
+        time_start: '15:00'
+        time_end: '15:45'
+
 
       - name: "Riverside and Highwood"
         time_start: '9:00'
@@ -163,7 +173,6 @@ days:
       - name: "Riverside and Highwood"
         time_start: '13:00'
         time_end: '14:30'
-
 
       - name: "The Forbidden Trolley Tour"
         time_start: '13:00'
