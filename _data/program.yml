@@ -152,7 +152,7 @@ days:
         time_start: "15:00"
         time_end: "15:45"
 
-      - name: "Resoration Shop Tour"
+      - name: "Restoration Shop Tour"
         time_start: "16:00"
         time_end: "16:45"
 
