@@ -151,9 +151,11 @@ conference:
 
       - name: Past Events
         menu:
-          #- name: 2024 (current)
-          #  disabled: true
-          #  relative_url: /
+          - name: 2025
+            relative_url: /2025/
+          - name: 2024 (current)
+            disabled: true
+            relative_url: /
           - name: 2023
             relative_url: /2023/
           - name: 2020
