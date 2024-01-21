@@ -138,6 +138,8 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: Meals
+        relative_url: /meals/
       - name: FAQ
         relative_url: /faq/
       - name: 5K

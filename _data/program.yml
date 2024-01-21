@@ -193,7 +193,7 @@ days:
   abbr: Su
   date: 2024-03-17
   rooms:
-  - name: "Lobby"
+  - name: "Visitors Center Lobby"
     talks:
       - name: Winterfest 5K Registration
         time_start: '7:00'
