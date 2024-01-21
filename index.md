@@ -3,7 +3,7 @@ layout: home
 show_generic_header: false
 ---
 
-<img id="logo-winterfest" style="width:100%;" src="/assets/images/logo5winterfest.svg" alt="NEATO Winterfest 2024 Logo" />
+<img id="logo-winterfest" style="width:100%;" src="/assets/images/logo6winterfest.svg" alt="NEATO Winterfest 2024 Logo" />
 
 <div class="lead d-print-none">
 
