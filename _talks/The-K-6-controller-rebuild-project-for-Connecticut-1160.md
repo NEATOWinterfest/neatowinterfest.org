@@ -3,7 +3,7 @@ name: "The K-6 controller rebuild project for Connecticut 1160"
 speakers:
   - Brian Tenaglia
 categories:
-  - Session
+  - Sessions
 summary: "In 2023 the Asbestos in the K-6 controller needed to be replaced with an alternative material. Seashore Trolley Museum restoration shop staff used SolidEdge to create a 3D-CAD (Computer Aided Drafting) model for the replacement material."
 ---
 

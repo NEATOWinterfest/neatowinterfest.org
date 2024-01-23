@@ -3,7 +3,7 @@ name: "Resistance design for Bay State 4175 and Lexington/Boston 41"
 speakers:
   - Brian Tenaglia
 categories:
-  - Workshop
+  - Workshops
 summary: |-
   4175 and 41 are both nearing completion. Join us as we review the in-progress designs for resistance on the two cars.
 ---

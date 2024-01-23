@@ -3,7 +3,7 @@ name: "Creating Trolley experiences that appeal to the general public, while app
 speakers:
   - Brian Tenaglia
 categories:
-  - Roundtable and Fireside Chat
+  - Roundtable Discussions and Fireside Chats
 summary: |-
   Diving deep on Trolley technology with the general public. Some of the Trolley's hidden mechanisms are beautiful old-school engineering, with an elegance that appeals to everybody. Technology may be just the thing that plants the seed of the future Trolley enthusiast.
 ---

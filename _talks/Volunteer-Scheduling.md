@@ -4,7 +4,7 @@ speakers:
   - Jim Nawrocki
   - Kristen Fredriksen
 categories:
-  - Roundtable and Fireside Chat
+  - Roundtable Discussions and Fireside Chats
 summary: |-
   Jim Nawrocki works as the Railway Operations Crew Caller for the Seashore Trolley Museum. Join Jim at a fireside chat about how to schedule volunteers. Jim will be joined in a roundtable discussion with other volunteer schedulers from other NEATO museums. We will dive in to what works, what doesn't work, the highs, the lows, and everything in between. If you have volunteers to schedule and volunteer hours to record, this open discussion is for you!
 ---

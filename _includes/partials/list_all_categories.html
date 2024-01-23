@@ -1,0 +1,12 @@
+
+{% if talk.categories.size %}
+  {% if talk.categories.size > 1 %}
+    <strong>Categories:</strong> 
+  {% else if talk.categories.size > 0 %}
+    <strong>Category:</strong> 
+  {% endif %}
+{% endif %}
+
+{%- for cat in talk.categories -%}
+<span class="badge badge-light text-reset font-weight-normal"><a href="/talks/#{{ cat | replace: ' ', '-' }}">{{ cat }}</a></span>&nbsp;
+{%- endfor -%}
