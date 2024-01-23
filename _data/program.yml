@@ -198,6 +198,16 @@ days:
         time_start: '16:00'
         time_end: '16:45'
 
+      - name: "Rapid Transit Vision and MBTA Blue Line tour"
+        time_start: '10:45'
+        time_end: '11:30'
+
+  - name: "MBTA Blue Line by Highwood Car Barn"
+    talks:
+      - name: "Rapid Transit Vision and MBTA Blue Line tour"
+        time_start: '10:45'
+        time_end: '11:30'
+
 
 
 
