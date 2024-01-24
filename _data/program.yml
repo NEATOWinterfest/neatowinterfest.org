@@ -106,7 +106,7 @@ days:
   - name: "Conference Room in the Visitors Center"
     talks:
 
-      - name: "Streetcar history for the 470 Club"
+      - name: "Streetcar history"
         time_start: '9:00'
         time_end: '9:45'
 
