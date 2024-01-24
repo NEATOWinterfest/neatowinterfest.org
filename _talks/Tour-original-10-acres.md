@@ -9,6 +9,7 @@ summary: "Ted Santarelli founded the Seashore Trolley Museum with his friends in
 
 Ted Santarelli founded the Seashore Trolley Museum with his friends in 1939. Walk in Ted Santarelli's shoes as you take a **walking tour of the original 10 acres** of Seashore Trolley Museum with Phil Morse.
 
+![Ted Santarelli receiving Car 88 in 1947](/assets/images/ted_santarelli_1947_car88.png)
 
 ## Location
 
