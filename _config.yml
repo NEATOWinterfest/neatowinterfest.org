@@ -142,6 +142,8 @@ conference:
         relative_url: /meals/
       - name: FAQ
         relative_url: /faq/
+      - name: Bingo!
+        relative_url: /talks/Bingo/
       - name: 5K
         relative_url: /talks/Winterfest-5K-Registration/
       - name: 'Discord'
