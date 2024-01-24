@@ -19,7 +19,7 @@ show_generic_header: false
 
 <a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/meals/" title="Meals">Meals</a>
 
-<a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/talks/bingo/" title="Bingo!">Bingo!</a>
+<a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/talks/Bingo/" title="Bingo!">Bingo!</a>
 
 <p>&nbsp;</p>
 
