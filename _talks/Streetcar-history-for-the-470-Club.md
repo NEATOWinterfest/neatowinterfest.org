@@ -1,13 +1,13 @@
 ---
-name: Streetcar history
+name: 'Mass-Transit. A Transformation of Society'
 speakers:
   - John Mercurio
 categories:
   - Sessions
-summary: "Join head of education, John Mercurio, as he takes you back in time to learn about the history of the Streetcar and the people that made it all happen."
+summary: "Join head of education, John Mercurio, as he takes you back in time to learn about the history of the Streetcar, the people that made it all happen, and how it changed the world."
 ---
 
-Learn about the history of the Streetcar and the people who made it happen.
+Join head of education, John Mercurio, as he takes you back in time to learn about the history of the Streetcar, the people that made it all happen, and how it changed the world.
 
 
 ## Location
