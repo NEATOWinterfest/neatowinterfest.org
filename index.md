@@ -17,6 +17,10 @@ show_generic_header: false
 
 <a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/faq/" title="FAQ">FAQ</a>
 
+<a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/meals/" title="Meals">Meals</a>
+
+<a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="/talks/bingo/" title="Bingo!">Bingo!</a>
+
 <p>&nbsp;</p>
 
 <strong>NEATO Winterfest</strong> is a yearly conference held by the <strong>North Eastern Alliance of Trolley Organizations</strong> for the members of those organizations. The conference is an opportunity for attendees to learn, share ideas, <a href="/talks/all-trolleys-welcome/">network with fellow Trolley enthusiasts</a>, and <a href="/talks/Saturday-Guest-Trolley-Operations/">operate the Trolleys of other museums</a>. You must be an active volunteer of one of the member museums to receive an invitation to attend the conference.
