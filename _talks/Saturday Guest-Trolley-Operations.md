@@ -1,7 +1,7 @@
 ---
 name: Saturday Guest Trolley Operations
-#speakers:
-#  - Devon Hubner
+speakers:
+  - Dan Vardaro
 categories:
   - Hands-On
 summary: "Guests are welcomed to operate the Trolleys available."
