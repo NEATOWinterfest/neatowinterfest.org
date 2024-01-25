@@ -1,7 +1,7 @@
 ---
 name: Hidden Exhibits of Seashore
 speakers:
-  - Bob Broseau
+  - Bob Brosseau
 categories:
   - Tours
 summary: "Things at Seashore that you normally walk past which have a story: South Boston track; Silent Police Man; Morisson Hill station; Mounds in parking lot which are cobblestones from Boston"
