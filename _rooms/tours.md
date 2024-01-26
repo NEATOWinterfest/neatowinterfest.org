@@ -37,9 +37,9 @@ The [Parts Warehouse](/rooms/parts-warehouse) is to the left of South Boston.
 
 
 
-## _"The Forbidden Trolley Tour"_ at Fairview and Central
+## [_"The Forbidden Trolley Tour"_ at Fairview and Central](/talks/Tour-forbidden-trolley-tour/)
 
-Walk past the SOAC cars, stay right at the fork to _bypass Highwood_ and go to **Fairview**.
+Walk past the SOAC cars, stay right at the fork to _bypass Highwood_ and go to **[Fairview](/rooms/fairview)**.
 
 _Do not cross the railroad tracks at McKay's crossing._
 

@@ -13,5 +13,11 @@ Take a tour of Riverside, Highwood, and South Boston car barn.
 
 Each group will be a group of 20 people.
 
-Meet at the **Visitors Center Platform**. Your group will ride the Trolley to **Morisson Hill Station** and tour **Riverside Car Barn**. The group will proceed to **Highwood Car Barn**. The tour ends in the all new **South Boston Car Barn**.
+1. Meet at the **Visitors Center Platform**.
+2. Your group will ride the Trolley to **Morisson Hill Station** and tour **Riverside Car Barn**.
+3. The group will proceed to **Highwood Car Barn**.
+4. The tour ends in the all new **South Boston Car Barn**.
+
+![](/assets/images/stm_map_2024_riverside_highwood_sobo.png)
+
 
