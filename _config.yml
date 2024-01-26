@@ -100,8 +100,8 @@ conference:
 
   talks:
     main_categories:
-      - name: "Lightning Talks"
-        color: "LightningTalks"
+      #- name: "Lightning Talks"
+      #  color: "LightningTalks"
       - name: Workshops
         color: Workshops
       - name: "Sessions"

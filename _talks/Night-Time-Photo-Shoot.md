@@ -1,7 +1,7 @@
 ---
 name: Night Time Photo Shoot
-#speakers:
-#  - Jeremy Whiteman
+speakers:
+  - Jeremy Whiteman
 categories:
   - Hands-On
 summary: "Enjoy taking photos of Trolleys at night. Sunsdown, polls up!"

@@ -2,10 +2,11 @@
 name: Tops and Tails
 speakers:
   - Rob Drye
-  - Jame VanBokkelen
+  - James van Bokkelen
 categories:
   - Sessions
 summary: "The maintenance of overhead and track at Seashore Trolley Museum."
+hidden: hidden
 ---
 
 The maintenance of overhead and track at Seashore Trolley Museum.

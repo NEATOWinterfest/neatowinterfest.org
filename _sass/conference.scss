@@ -41,16 +41,16 @@ $fa-font-path: '/assets/webfonts' !default;
 @import "bootstrap/variables";
 
 $new-theme-colors: (
-  "LightningTalks": $yellow,
+  "LightningTalks": #fff735, //$yellow,
   "Workshops": $teal,
   "Sessions": $purple,
-  "Roundtable": $green,
-  "Meals": $gray-600, //$indigo,
-  "Information": $pink,
-  "HandsOn": $cyan,
-  "Entertainment": $blue,
-  "CommunityActivities": $orange,
-  "Tours": $red,
+  "Roundtable": #ff0000, // red
+  "Meals": $gray-600,
+  "Information": #ef00ff, // pink
+  "HandsOn": #ff8c00, // orange
+  "Entertainment": #00fbff, // cyan
+  "CommunityActivities": #0020ff, // blue
+  "Tours": #00ff06, // green
 );
 
 $theme-colors: map-merge($theme-colors, $new-theme-colors);
@@ -64,8 +64,10 @@ $theme-colors: map-merge($theme-colors, $new-theme-colors);
   }
   .border-soft-#{$color} {
     border-color: theme-color-level($color, $alert-border-level);
-    border-left-width: $alert-border-width;
+    border-left-width: 8px;
     border-left-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
   }
   .bg-soft-#{$color} {
     @include gradient-bg(theme-color-level($color, $alert-bg-level));

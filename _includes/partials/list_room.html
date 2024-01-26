@@ -1,8 +1,14 @@
-{%- if room.hide or site.conference.location.hide -%}
-  {{- room.name -}}
+{%- if room.exclude -%}
+  &nbsp;
 {%- else -%}
-  <strong>Location:</strong> {%- if page.location -%}{{ page.location }}
+
+  {%- if room.hide or site.conference.location.hide -%}
+    {{- room.name -}}
   {%- else -%}
-    <a class="text-reset" href="{{ room.url | prepend: site.baseurl }}">{{- room.name -}}</a>
+    <strong>Location:</strong> {%- if page.location -%}{{ page.location }}
+    {%- else -%}
+      <a class="text-reset" href="{{ room.url | prepend: site.baseurl }}">{{- room.name -}}</a>
+    {%- endif -%}
   {%- endif -%}
+
 {%- endif -%}
