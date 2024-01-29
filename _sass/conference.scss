@@ -144,7 +144,7 @@ main.container img {
   // Sticky horizontal positioning
   th {
     position: sticky;
-    background-color: $body-bg;
+    // background-color: $body-bg;
   }
   th:first-of-type {
     left: 0px;
@@ -274,3 +274,46 @@ main.container img {
     display: inline-block !important;
   }
 }
+
+
+
+
+
+th.col-space {
+  border-right:0.5px #292929 solid;
+}
+
+.schedule-column-even {
+  background-color:#efefef;
+}
+.schedule-column-odd {
+  background-color:#ffffff;
+}
+
+th.time-header {
+  background-color:#ffffff;
+  border-right:0.5px #292929 solid;
+}
+
+td.am-i-the-last {
+  //border-right:0.5px #292929 solid;
+}
+
+th.no-right-border {
+  border-right:none !important;
+}
+
+
+// .room-fairview { background-color:#FAEEEF; }
+// .room-in-the-visitors-center { background-color:#FBF5EF; }
+// .room-mbta-blue-line-by-highwood-car-barn { background-color:#EEFAEF; }
+// .room-model-railroad-building { background-color:#EEEEFB; }
+// .room-parts-warehouse { background-color:#F9EEFB; }
+// .room-restoration-shop { background-color:#D9CFF6; }
+// .room-the-national-streetcar-museum-at-lowell { background-color:#F6F9E0; }
+// .room-tours { background-color:#F9E6E1; }
+// .room-visitors-center-lobby { background-color:#D9CFF6; }
+// .room-visitors-center-platform { background-color:#D9F6CF; }
+
+
+

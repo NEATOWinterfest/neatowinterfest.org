@@ -1,7 +1,14 @@
-{%- if talk.hide -%}
-  <strong>{{ talk.name }}</strong>
+{%- if talk.exclude -%}
 {%- else -%}
-  <strong><a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.name }}</a></strong>
-{%- endif -%}
+  {%- if talk.hide -%}
+    <strong>{{ talk.name }}</strong>
+  {%- else -%}
+    <strong><a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.name }}</a></strong>
+  {%- endif -%}
 
-<div class="talk-summary small">{{ talk.summary }}</div>
+  <div class="talk-summary small">{{ talk.summary }}</div>
+  <p />
+  <small><strong>Start</strong>: {{ talk_start }}</small><br />
+  <small><strong>End</strong>..: {{ talk_end }}</small>
+
+{%- endif -%}

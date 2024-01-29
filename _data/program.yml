@@ -64,6 +64,34 @@ days:
         time_start: '8:00'
         time_end: '18:00'
 
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '9:00'
+        time_end: '10:30'
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '9:30'
+        time_end: '11:00'
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '10:00'
+        time_end: '11:30'
+
+      - name: "The life and times of Ted Santarelli in 1939"
+        time_start: '13:00'
+        time_end: '14:30'
+
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '13:00'
+        time_end: '14:30'
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '13:30'
+        time_end: '15:00'
+      - name: "Riverside, Highwood, and South Boston"
+        time_start: '14:00'
+        time_end: '15:30'
+
+      - name: "Hidden Exhibits of Seashore"
+        time_start: '15:00'
+        time_end: '15:45'
+
       - name: "Night Time Photo Shoot"
         time_start: '21:00'
         time_end: '23:00'
@@ -168,7 +196,7 @@ days:
         time_end: '17:45'
 
 
-  - name: "Tours"
+  - name: "Model Railroad Building"
     talks:
       - name: "Model Railroad Building Tour"
         time_start: '9:00'
@@ -189,42 +217,23 @@ days:
         time_start: '15:00'
         time_end: '15:45'
 
-      - name: "The life and times of Ted Santarelli in 1939"
-        time_start: '13:00'
-        time_end: '14:30'
-      - name: "Hidden Exhibits of Seashore"
-        time_start: '15:00'
-        time_end: '15:45'
 
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '9:00'
-        time_end: '10:30'
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '9:30'
-        time_end: '11:00'
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '10:00'
-        time_end: '11:30'
-
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '13:00'
-        time_end: '14:30'
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '13:30'
-        time_end: '15:00'
-      - name: "Riverside, Highwood, and South Boston"
-        time_start: '14:00'
-        time_end: '15:30'
-
-
+  - name: "Fairview"
+    talks:
 
       - name: "The Forbidden Trolley Tour"
         time_start: '13:00'
         time_end: '14:30'
 
+  - name: "Parts Warehouse"
+    talks:
+
       - name: "Parts Warehouse"
         time_start: '15:00'
         time_end: '15:45'
+
+  - name: "MBTA Blue Line by Highwood Car Barn"
+    talks:
 
       - name: "Rapid Transit Vision and MBTA Blue Line tour"
         time_start: '10:45'

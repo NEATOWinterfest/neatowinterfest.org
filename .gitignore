@@ -5,6 +5,7 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 _data/program.1.yml
+_layouts/program.*.html
 
 ### Bundler ###
 .bundle/

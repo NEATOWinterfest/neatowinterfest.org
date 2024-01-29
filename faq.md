@@ -51,12 +51,21 @@ Visitors Center Exhibit Room
 * **Supper:** 6-7pm
 
 ## Tips for how to Winterfest
+0. Wear warm clothing
 1. Stay hydrated
 2. Wear comfortable shoes
 3. Know your way around, use the campus map
 4. Communicate
 5. Be patient and flexible
 6. Have fun!
+
+## What kind of weather can I expect?
+
+Maine will usually still have snow on the ground in March and while the days can be warm, the nights will be cold. Dress in layers to ensure you stay warm.
+
+This is a picture of the Parts Warehouse from March 9, 2023 for your reference.
+
+![Parts Warehouse March 9, 2023](/assets/images/parts_warehouse_march9_2023.jpg)
 
 
 
@@ -69,10 +78,10 @@ Visitors Center Exhibit Room
 * Non-credentialed persons within the controlled event space
 
 ## How to contact security:
+* Visit the **dispatcher** on the platform.
+* Visit the **help desk** in the lobby.
 * Call `9-1-1`
 * Kennebunk non-emergency Police: `1-207-985-6121`
-* Visit the dispatcher on the platform.
-* Visit the help desk in the lobby.
 
 
 ## Where can I pick up my badge?
@@ -89,13 +98,20 @@ When on-site, schedule a venue with event support
 **195 Log Cabin Rd**<br />
 **Kennebunkport**, ME 04046
 
+## What is the Address of the National Streetcar Museum at Lowell?
+
+**National Streetcar Museum at Lowell**<br />
+**25 Shattuck St #1819**<br />
+**Lowell**, MA 01852
+
+
 ## When is Winterfest?
 
 Winterfest is **Friday, March 15, 2024** - **Sunday, March 17, 2024**.
 
 ## Are there shuttles available to and from Hotels?
 
-No. Please rent a car, carpool, or use a Taxi service.
+**No**. Please rent a car, carpool, or use a Taxi service.
 
 ## Are Rideshare services like Uber and Lyft available?
 
@@ -112,5 +128,7 @@ NEATO and Winterfest want to protect the health of the event's attendees. Winter
 * If an attendee tests positive for COVID-19, they need to follow the guidance provided by the CDC.
 
 
+## I saw a car that I'm interested to learn more about, where can I find the information?
 
+Search for the car at [collections.trolleymuseum.org](https://collections.trolleymuseum.org)
 
