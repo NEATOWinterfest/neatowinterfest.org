@@ -1,0 +1,52 @@
+---
+layout: page
+title: Gallery
+permalink: "/gallery/"
+---
+
+<link rel="stylesheet" href="{{ site.baseurl }}/gallery/myModal.css" />
+<link href="{{ site.baseurl }}/gallery/gallery.css" rel="stylesheet">
+
+<style type="text/css">
+.gallery-description {
+  font-weight: 600 !important;
+  font-size: 14px;
+  font-family: "PT Sans",sans-serif;
+  line-height: 1.7;
+  color: #555555;
+}
+.gallery-attribute {
+  font-weight: 400 !important;
+  font-size: 10px;
+  font-family: "PT Sans",sans-serif;
+  line-height: 1.7;
+  color: #999999;
+}
+</style>
+
+## Don Curry
+
+<div class ="image-gallery">
+  {% for g in site.data.gallery.don_curry %}
+    <div class="box" style="border:0.5px #eeeeee solid;">
+      <img
+        src="/gallery/thumbs/{{ g[0] }}"
+        alt="{{ g[1].description }}"
+        class="img-gallery"
+        onclick='modalizeImage("/gallery/img/{{ g[0] }}", "", "");'
+      />
+      <div class="gallery-description">{{ g[1].description }}</div>
+      <div class="gallery-attribute">{{ g[1].attribute }}</div>
+    </div>
+  {% endfor %}
+ </div>
+
+
+<div id="myModal" class="modal">
+  <span id="closeModal" style="cursor: pointer;" onclick="closeModal();">&times;</span>
+  <img class="modal-content" id="modalImg" style="cursor: pointer;" onclick="closeModal();" />
+  <div id="modalCaption"></div>
+  <div id="modalAttribute"></div>
+</div>
+<script type="text/javascript" src="{{ site.baseurl }}/gallery/myModal.js"></script>
+
