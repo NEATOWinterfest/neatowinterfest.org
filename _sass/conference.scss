@@ -290,6 +290,14 @@ th.col-space {
   background-color:#ffffff;
 }
 
+
+thead tr th,
+tbody tr th, {
+  background-color:#ffffff;
+}
+
+
+/*
 th.time-header {
   background-color:#ffffff;
   border-right:0.5px #292929 solid;
@@ -302,7 +310,7 @@ td.am-i-the-last {
 th.no-right-border {
   border-right:none !important;
 }
-
+*/
 
 // .room-fairview { background-color:#FAEEEF; }
 // .room-in-the-visitors-center { background-color:#FBF5EF; }

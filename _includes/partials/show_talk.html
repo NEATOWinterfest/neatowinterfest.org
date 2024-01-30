@@ -8,7 +8,16 @@
 
   <div class="talk-summary small">{{ talk.summary }}</div>
   <p />
+  {%- if talk_start -%}
   <small><strong>Start</strong>: {{ talk_start }}</small><br />
+  {%- elsif talk.talk_start -%}
+  <small><strong>Start</strong>: {{ talk.talk_start }}</small><br />
+  {%- endif -%}
+
+  {%- if talk_end -%}
   <small><strong>End</strong>..: {{ talk_end }}</small>
+  {%- elsif talk.talk_end -%}
+  <small><strong>End</strong>: {{ talk.talk_end }}</small><br />
+  {%- endif -%}
 
 {%- endif -%}
